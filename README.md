@@ -2,6 +2,8 @@
 
 Real World Testing with Cypress is a free and open source testing curriculum built with [Next.js](https://nextjs.org) by the team at [Cypress](https://www.cypress.io/).
 
+Test
+
 ## Installation
 
 ```bash
