@@ -10,3 +10,5 @@ workflows:
     jobs:
       - cypress/run: # "run" job comes from "cypress" orb
          record: true
+         parallel: true
+         parallelism: 2
